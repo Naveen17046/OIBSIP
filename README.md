@@ -6,7 +6,7 @@ Features: Header, Hero section, About, Skills, Footer
 Task 2: Portfolio Website
 Personal portfolio showcasing skills, projects, and contact info
 Features: Header with profile photo, About Me, Skills, Projects, Contact
-[Live Demo] (https://naveen17046.github.io/OIBSIP/OIBSIP/Level1_Task2_/index.html)
+[Live Demo] (https://naveen17046.github.io/OIBSIP/OIBSIP/Level2_Task2_/index.html)
 Technologies Used
 HTML
 CSS
